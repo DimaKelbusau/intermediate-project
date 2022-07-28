@@ -1,0 +1,24 @@
+.logo {
+    display: grid;
+    grid-template-columns: 100px 1fr 100px;
+    grid-template-rows: 1fr;
+    background-color: #f1f1f1;
+}
+
+.logo-icons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    grid-column: 2/3;
+    grid-row: 1/2;
+    padding: 50px 0px 50px 0px;
+}
+
+.logo-1, .logo-2, .logo-3 {
+    padding: 10px;
+}
+
+.logo-1, .logo-2, .logo-3:hover {
+    cursor: pointer;
+  }
