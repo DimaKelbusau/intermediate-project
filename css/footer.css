@@ -24,7 +24,6 @@ footer {
 
 }
 
-
 .footer-icon1, .footer-icon2, .footer-icon3, .footer-icon4 {
     display: flex;
     justify-content: center;
@@ -66,4 +65,3 @@ footer {
     cursor: pointer;
     background-color: #fc6744;
 }
-
