@@ -1,0 +1,23 @@
+@import url(./header.css);
+@import url(./work-procces.css);
+@import url(./featured.css);
+@import url(./servises.css);
+@import url(./team.css);
+@import url(./client.css);
+@import url(./logo.css);
+@import url(./footer.css);
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+span {
+    color: #fc6744;
+  }
+  
+  
